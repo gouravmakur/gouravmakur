@@ -9,9 +9,8 @@
    Open-source web development projects
    Design and UI/UX enhancement initiatives
 - 📫 How to reach me:
-   Email: gouravmakur@example.com
-   LinkedIn: linkedin.com/in/gouravmakur
-   GitHub: github.com/gouravmakur
+   Email: gouravmakur@gmail.com
+   LinkedIn: [linkedin.com/in/gouravmakur](https://www.linkedin.com/in/gourav-makur-b3a38a21a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new web technologies and often participate in hackathons to sharpen my skills and learn from peers
 
