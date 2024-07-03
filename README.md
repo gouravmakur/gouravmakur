@@ -10,7 +10,7 @@
    Design and UI/UX enhancement initiatives
 - 📫 How to reach me:
    Email: gouravmakur@gmail.com
-   LinkedIn: [linkedin.com/in/gouravmakur]((https://www.linkedin.com/in/gouravmakur/))
+   LinkedIn: [[linkedin.com/in/gouravmakur]((https://www.linkedin.com/in/gouravmakur/))](https://www.linkedin.com/in/gouravmakur/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new web technologies and often participate in hackathons to sharpen my skills and learn from peers
 
